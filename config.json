@@ -28,5 +28,14 @@
          {"Text":"Places to visit","ID":"posti_eng"},
          {"Text":"Restaurants","ID":"ristorandi_eng"}
       ]
+   },
+   {
+      "ID":"posti_ita",
+      "Text":"Seleziona un monumento",
+      "AlertText":"I link di seguito collegano a pagine web",
+      "AlertShow":true,      
+      "Button":[
+         {"Text":"Cattedrale Madricee","URL":"http://www.caltabellottafortourist.it/madrice.html"}
+      ]
    }    
 ]
