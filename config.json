@@ -1,0 +1,32 @@
+[
+   {
+      "ID":"",
+      "Text":"Benvenuto nel bot di Caltabellotta For Tourist\r\nWelcome to Caltabellotta For Tourist bot",
+      "AlertText":"",
+      "AlertShow":false,      
+      "Button":[
+         {"Text":"Lingua Italiana","ID":"italiano"},
+         {"Text":"English language","ID":"inglese"}
+      ]
+   },
+   {
+      "ID":"italiano",
+      "Text":"Seleziona una categoria",
+      "AlertText":"",
+      "AlertShow":false,      
+      "Button":[
+         {"Text":"Posti da visitare","ID":"posti_ita"},
+         {"Text":"Ristoranti","ID":"ristorandi_ita"}
+      ]
+   },
+   {
+      "ID":"inglese",
+      "Text":"Select a category",
+      "AlertText":"",
+      "AlertShow":false,      
+      "Button":[
+         {"Text":"Places to visit","ID":"posti_eng"},
+         {"Text":"Restaurants","ID":"ristorandi_eng"}
+      ]
+   }    
+]
