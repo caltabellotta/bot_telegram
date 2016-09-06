@@ -5,10 +5,7 @@
       "AlertText":"",
       "AlertShow":false,
       "Button":[
-         {
-            "Text":"Lingua Italiana",
-            "ID":"italiano"
-         },
+         {"Text":"Lingua Italiana","ID":"italiano"},
          {
             "Text":"English language",
             "ID":"inglese"
@@ -68,7 +65,7 @@
       "Text":"L'antica chiesa dell' Assunta, secondo tradizione, fu fatta edificare da re Ruggero in età normanna anche se nulla dell'aspetto architettonico originario rimanda a tale periodo: all'interno e sotto le fondamenta infatti sono stati ritrovati dei sarcofagi litici di epoca romana contenenti degli inumati che recavano monete e vasi, che ne fanno arretrare l'età di appartenenza al IV secolo; l'aspetto esterno e l'impianto interno con grandi archi ogivali riecheggiano lo stile architettonico di XIV/XV secolo. La cattedrale, a tre navate, ha subito numerose opere di restauro. Essa ospita un fonte battesimale del XII secolo in pietra calcarea dodecagonale, fittamente decorato da arabeschi e recante una scritta araba; un pomposo complesso di stucchi e pitture è ospitato nella cappella della Madonna della Catena che presenta statue a tuttotondo, opera di Antonio Ferraro (1591-1598) e una scultura raffigurante Santa Maria della Catena opera di Giacomo Gagini, coeva degli stucchi del Ferraro; una Madonna col Bambino è opera di Fazio Gagini (1545); una Madonna della Consolazione, che tiene stretto in mano un cardellino, è opera di Antonello e Giacomo Gagini (1536). La torre campanaria detta \"Mortorio\" ed il parapetto della scala sono stati costruiti con materiale molto simile al tratto di fortificazione esistente sul lato sud del \"Castello\" con conci squadrati connessi fittamente tra di loro, indice di una stretta correlazione col periodo storico in cui Trifone, durante la seconda guerra servile (104-99 a. C.), circondò Triokala di una cinta muraria. \"Lu Finistruni\" che si trova sul lato della chiesa fungeva da torrione naturale, testimonianza ne sono le tracce delle sue fondamenta, sotto le quali, da una piccola grotta sgorgava alcuni decenni fa una sorgente. Al di sopra de \"Lu Finistruni\", un bell'altare sacrificale porta i segni tangibili di un rito primordiale a noi sconosciuto che testimonia una frequentazione del luogo in periodo preistorico durante la remota civiltà dei Sicani.",
       "AlertText":"",
       "AlertShow":false,
-      "Button":[
+      "Button":[{"Text":"Torna indietro","ID":"posti_ita"}
 
       ]
    },
@@ -77,7 +74,7 @@
       "Text":"The ancient church was dedicated to the Assumption of Mary, according to tradition, and was commissioned by Roger the Second during the Norman years, although the style used is not directly bound to that era. In the church's interior, and below the basement were found stone carved sarcophagi from the Roman ages, containing, among the bodies, coins and pottery from the IV century A.D. The façade and the interior structure, with big ogival arches imply the architectonic style of the XIV-XV centuries. The cathedral, containing three aisles, has undergone various restorations. The church preserves a baptismal font from the 12th century in carved limestone with twelve sides, each side having different religious symbols, while two contain carved two arches. A magnificent plaster and paintings work chapel is visible on the left, beyond the main entrance. This chapel, dedicated to the Madonna of Chains, has several statues made by the hands of Antonio Ferrara between 1591 and 1598, and a sculpture which portrays Holy Mary of the Chain. The latter is a work by Giacomo Gagini, a contemporary of Ferrara. A Madonna with the Child, by Fazio Gagini (1545); a Madonna of Consolation, that holds a goldfinch, and a work by Antonello and Giacomo Gagini (1536) round out the notable sculptures. The beli tower, called \"Mortorio\" and the bulwark are squared stone bricks densely packed, simi lar to the material used for the forti fication walls on the southern side of the Castle. The similarity of the materials rnakes it possible to infer, then, some sort of relation with the same historical peri od in which Tryphon, during the second Servile War (104-99 B.C.), surrounded Triokala of a defensive.",
       "AlertText":"",
       "AlertShow":false,
-      "Button":[
+      "Button":[{"Text":"Back menu","ID":"posti_eng"}
 
       ]
    }
