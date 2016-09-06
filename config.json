@@ -35,7 +35,7 @@
       "AlertText":"I link di seguito collegano a pagine web",
       "AlertShow":true,      
       "Button":[
-         {"Text":"Cattedrale Madricee","URL":"http://www.caltabellottafortourist.it/madrice.html"}
+         {"Text":"Cattedrale Madrice","URL":"http://www.caltabellottafortourist.it/madrice.html"}
       ]
    }    
 ]
