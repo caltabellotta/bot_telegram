@@ -6,10 +6,7 @@
       "AlertShow":false,
       "Button":[
          {"Text":"Lingua Italiana","ID":"italiano"},
-         {
-            "Text":"English language",
-            "ID":"inglese"
-         }
+         {"Text":"English language","ID":"inglese"}
       ]
    },
    {
@@ -18,10 +15,7 @@
       "AlertText":"",
       "AlertShow":false,
       "Button":[
-         {
-            "Text":"Posti da visitare",
-            "ID":"posti_ita"
-         }
+         {"Text":"Posti da visitare","ID":"posti_ita"}
       ]
    },
    {
@@ -30,10 +24,7 @@
       "AlertText":"",
       "AlertShow":false,
       "Button":[
-         {
-            "Text":"Places to visit",
-            "ID":"posti_eng"
-         }
+         {"Text":"Places to visit","ID":"posti_eng"}
       ]
    },
    {
@@ -42,10 +33,7 @@
       "AlertText":"",
       "AlertShow":false,
       "Button":[
-         {
-            "Text":"Cattedrale Madrice",
-            "ID":"madrice_ita"
-         }
+         {"Text":"Cattedrale Madrice","ID":"madrice_ita"}
       ]
    },
    {
@@ -53,11 +41,7 @@
       "Text":"Please choose a Monument",
       "AlertText":"",
       "AlertShow":false,
-      "Button":[
-         {
-            "Text":"Cattedrale Madrice",
-            "ID":"madrice_eng"
-         }
+      "Button":[{"Text":"Cattedrale Madrice","ID":"madrice_eng"}
       ]
    },
    {
@@ -72,8 +56,6 @@
       "Text":"The ancient church was dedicated to the Assumption of Mary, according to tradition, and was commissioned by Roger the Second during the Norman years, although the style used is not directly bound to that era. In the church's interior, and below the basement were found stone carved sarcophagi from the Roman ages, containing, among the bodies, coins and pottery from the IV century A.D. The façade and the interior structure, with big ogival arches imply the architectonic style of the XIV-XV centuries. The cathedral, containing three aisles, has undergone various restorations. The church preserves a baptismal font from the 12th century in carved limestone with twelve sides, each side having different religious symbols, while two contain carved two arches. A magnificent plaster and paintings work chapel is visible on the left, beyond the main entrance. This chapel, dedicated to the Madonna of Chains, has several statues made by the hands of Antonio Ferrara between 1591 and 1598, and a sculpture which portrays Holy Mary of the Chain. The latter is a work by Giacomo Gagini, a contemporary of Ferrara. A Madonna with the Child, by Fazio Gagini (1545); a Madonna of Consolation, that holds a goldfinch, and a work by Antonello and Giacomo Gagini (1536) round out the notable sculptures. The beli tower, called \"Mortorio\" and the bulwark are squared stone bricks densely packed, simi lar to the material used for the forti fication walls on the southern side of the Castle. The similarity of the materials rnakes it possible to infer, then, some sort of relation with the same historical peri od in which Tryphon, during the second Servile War (104-99 B.C.), surrounded Triokala of a defensive.",
       "AlertText":"",
       "AlertShow":false,
-      "Button":[{"Text":"Back menu","ID":"posti_eng"}
-
-      ]
+      "Button":[{"Text":"Back menu","ID":"posti_eng"}]
    }
 ]
