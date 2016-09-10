@@ -1,6 +1,6 @@
 [
    {
-      "ID":"",
+      "ID":"HOME",
       "Text":"Benvenuto nel bot di Caltabellotta For Tourist\r\nWelcome to Caltabellotta For Tourist bot",
       "Button":[
          {"Text":"Lingua Italiana","ID":"italiano"},
